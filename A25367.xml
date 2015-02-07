@@ -668,13 +668,26 @@ square of LV be equal to the square of SV. For AR: RD :: TV: VL, there fore the 
             <div n="7" type="proposition">
                <head>PROPOSITION VII.</head>
                <p>IF two equal and alike Triangles as GCA and GFA be contrary put, (<hi>viz.</hi>) the <hi>Vertex</hi> of the one to the <hi>Base</hi> of the other, and Lines drawn parallel to the <hi>Base</hi> as MXV pa<g ref="char:EOLhyphen"/>rallel to CA; If MX be drawn into XV, that so the Triangle GCA and GFA being drawn one into another; they will generate a solid equal to one sixth of the <hi>paralellepipedon</hi> ABD CEFGH.</p>
-               <figure/>
+               <p>
+                  <pb n="27" facs="tcp:52033:21"/>
+                  <figure/>
+               </p>
                <p>
                   <pb n="28" facs="tcp:52033:22"/>For by 4; 2. the Line MV being cut into 2 parts in X, the square MX, (that is IZ) more the square of XV, (that is XO) more the double Rectangle of MXV, that is, the Rectangles XQ and OR, are equal to the whole square VZ; for that reason the whole <hi>paralellepipedon</hi> ABDCEFGH is composed of these parts, the <hi>pyramide</hi> ABDCH more the <hi>pyramide</hi> EFGHA more the two solids BDKOIRHE and ACMXIQFG, but the <hi>paralellepipedon</hi> ABDCEFGH is equal to three <hi>pyramides</hi> of the same <hi>Base</hi> and Altitude; therefore one of these solids as ACXMQIFG will be equal to ⅙ of the whole.</p>
             </div>
             <div n="8" type="proposition">
                <head>PROPOSITION VIII.</head>
-               <figure/>
+               <p>IF in the side of the <hi>paralellogram</hi> ACDE there be taken a point, suppose at B, and the Line BF drawn <hi>parallel</hi> to AE and CD, the Diameter BD being drawn, and the Fi<g ref="char:EOLhyphen"/>gure being completed; then will the Rect<g ref="char:EOLhyphen"/>angle under EB and BD, be to the Rectangle under the <hi>trapezium</hi> EABD and the Tri<g ref="char:EOLhyphen"/>angle BDC, as AB, to the composed of ½ AB more ⅙ of BC; For the Rectangle EB, BD; that is, all the Rectangles of AB, BC; QR, RX; EF, FD; that is the <hi>paralelle<g ref="char:EOLhyphen"/>pipedon</hi>
+                  <pb n="29" facs="tcp:52033:22"/>
+                  <figure/>
+made of AB, BC; and the Altitude BF: the Rectangle EABD, BDC; that is, all the Rectangles EF, FD; QR, RZ; that is a <hi>prisme</hi> of EFD and the Altitude FB; more all the Rectangles of RZ, ZX; but a <hi>paralellepipedon</hi> is to a <hi>prisme</hi> of the same <hi>Base</hi> and Altitude as 1 to ½, that may be as AB, to ½ AB, but all the Rectangles of RZ, ZX, are ⅙ of the <hi>paralellepipedon</hi> BCB and the Altitude CD by the last Proposition; but the <hi>paralellepipedon</hi> BCBFD, is to BC, as ⅙ of the <hi>paralellepipedon</hi> BCBFD, to ⅙ of BC, the <hi>prisme</hi> made of DFE and the Altitude EA, more all the Rectangles of RZ, ZX; that is ⅙ of the <hi>paralellepipedon</hi> BCB and the Altitude BF, is equal to the Rectangle EA BD, BDC; that is all the Rectangles of
+<pb n="30" facs="tcp:52033:23"/>
+QZX; Therefore as AB, to ½ AB mor<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> BC, so are all the Rectangles AB, BC QR, RX; EF, FD; to all the Rectangle of AB, BC; QZ, ZX.</p>
                <p>The second part of this <hi>Theorem</hi> may b<gap reason="illegible" resp="#APEX" extent="1+ letters">
                      <desc>•…</desc>
                   </gap> that the Rectangle EC, CF; is to the Rect<g ref="char:EOLhyphen"/>angle of the <hi>Tropezium</hi> EABD and the Tr<gap reason="illegible" resp="#APEX" extent="1+ letters">
@@ -713,7 +726,11 @@ square of LV be equal to the square of SV. For AR: RD :: TV: VL, there fore the 
                   <pb n="31" facs="tcp:52033:23"/>For,</p>
                <p>AB: BK :: AC: CZ, therefore by 23. 6.</p>
                <p>BA: AK :: CB: ZK, therefore by 23. 6.</p>
-               <figure/>
+               <p>ABA: BKA :: ACB: CZK :: PZ: ZK, apply CZ to the two last terms, aud it will be as ACB: CZK :: CZP: CZK, because CZK is in each proportion; Therefore ACB that is the square of CE is equal to CZP; the like in all other planes <hi>parallel</hi> to the <hi>Base</hi> AEBD. This manner of section <hi>Apollonius</hi> calls a <hi>parabola;</hi> but
+<figure/>
+                  <pb n="32" facs="tcp:52033:24"/>
+if the <hi>semiparabola</hi> EIZRC be moved about the <hi>axis</hi> ZC, until it return to that point from whence it began its motion, it will <hi>Generate a solide, Archimedes</hi> names such a solid, a Rect<g ref="char:EOLhyphen"/>angled <hi>conoide;</hi> but generally it is called by the name of a <hi>parabolical conoide.</hi>
+               </p>
             </div>
             <div n="10" type="proposition">
                <head>PROPOSITION X.</head>
@@ -784,7 +801,12 @@ square of LV be equal to the square of SV. For AR: RD :: TV: VL, there fore the 
                <p>
                   <pb n="35" facs="tcp:52033:25"/>KG: CG :: KR: ER by 23, 6.</p>
                <p>GH: GA :: RH: RO by 23, 6.</p>
-               <figure/>
+               <p>KGH: CGA :: KRH: ERO; CGA is equal <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the square of GB, and ERO is equal to
+<figure/>
+                  <pb n="36" facs="tcp:52033:26"/>
+the square of RI; Therefore as KGH, the square of GB, so is KRH, to the squa of RI.</p>
                <p>This manner of Section <hi>Apollonius</hi> calls <hi>Hyperbola;</hi> but if the <hi>semihyperbola</hi> BIHR be moved about the Axis HG, until it retu<gap reason="illegible" resp="#APEX" extent="1+ letters">
                      <desc>•…</desc>
                   </gap> to that point from whence it began its m<g ref="char:EOLhyphen"/>tion, it will Generate a solid; such a solid called by <hi>Archimedes</hi> an <hi>Amblygon conoid<gap reason="illegible" resp="#APEX" extent="1+ letters">
@@ -944,7 +966,20 @@ Angle CRH; therefore there is given the Angle CRH; thus, 5: 12 :: 100000: 240000
             </div>
             <div n="20" type="proposition">
                <head>PROPOSITION <hi>XX.</hi> To find the solidity of a Circular or Elliptick Spindle.</head>
-               <figure/>
+               <p>LEt ABCOHP be a Circle, HB and PVO be two Diameters at right Angle <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t Z; Let AK and GC be parallel to HB, <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Lines PO parallel to PVO; Let GC <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>qual to AK be the <hi>axis,</hi> VO the Dia<g ref="char:EOLhyphen"/>meter of the Spindle. Suppose there be Solid whose <hi>Base</hi> shall be the <hi>segment</hi> KHG <gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>BA and Altitude the <hi>segment</hi> APK; such
+<pb n="52" facs="tcp:52033:34"/>
+                  <figure/>
+a Solid is equal to all the squares in ¼ of Sphere whose Diameter is AK; for the Rect angle ORP is equal to the Rectangle AR<gap reason="illegible" resp="#APEX" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 35, 3, and by the same 35, 3, the Rectangle ARK are equal to all the squares In ¼ of Sphere whose Diameter is AK.</p>
                <p>If from the Solid whose <hi>Base</hi> is KHG<gap reason="illegible" resp="#APEX" extent="1+ letters">
                      <desc>•…</desc>
                   </gap> CBA and Altitude APK, there be take a Solid, whose <hi>Base</hi> is KGCA and Altitud<gap reason="illegible" resp="#APEX" extent="1+ letters">
@@ -1041,7 +1076,10 @@ the <hi>Areas</hi> ZXF and ZXA may be found by the I of this, and the Altitudes 
                      </gap> of a <hi>Spheroide,</hi> ♄ ☉ OXVIABD ♄ HF<gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap>T, be ⅛ of a Sphere. Unto the Planes ♄ ♃ ♂ ☉ ♀ <g ref="char:Moon">☽</g> and ♄ LO ☉ XC, Let there be Planes at right Angles as ♂ QDH, ☉ QBF and ♀ ☿ <g ref="char:Moon">☽</g> AC. OIDH, ☉ IBF and XIAC. From the points L parallel to ♀ C draw the Line ♃ L E, because the Line ♃ LE is parallel to ♀ C, Therefore the Line ♃ T is equal to LT, and the Line T <g ref="char:Moon">☽</g> is equal to TI, Therefore the Quadrants of the Circle T ♃ <g ref="char:Moon">☽</g> and TLI are equal. In these Planes, <hi>viz.</hi> ♂ QDH, ☉ QBF and ♀ <g ref="char:Moon">☽</g> AC, Let there be Lines drawn, <hi>viz.</hi> P comma, and QN, parallel to ♂ H. P comma, and QN parallel to ☉ F. ☿ comma, and <g ref="char:Moon">☽</g> N parallel to ♀ C. The points ♂ PQD, ☉ PQD and ♀ ☿ <g ref="char:Moon">☽</g> A in those <hi>El<g ref="char:EOLhyphen"/>lipses,</hi> the points OVID, ☉ VIB and XV IA in those Circles.</p>
-                  <figure/>
+                  <p>
+                     <pb n="60" facs="tcp:52033:38"/>
+                     <figure/>
+                  </p>
                   <p>♀ C : XC :: ♂ H : OH, by the 10. Prop.</p>
                   <p>♀ C : XC :: ♃ E : LE,</p>
                   <p>♂ H : OH :: ♃ E : LE, 11. 5.</p>
@@ -1214,7 +1252,10 @@ the <hi>Areas</hi> ZXF and ZXA may be found by the I of this, and the Altitudes 
                <div n="5" type="subpart">
                   <head>5.</head>
                   <p>Let CGB be half a <hi>parabola,</hi> its Diame<g ref="char:EOLhyphen"/>ter CG, its Ordinate CB. Let CVB be half of another <hi>parabola,</hi> its Diameter CV, its Ordinate CB.</p>
-                  <figure/>
+                  <p>
+                     <pb n="67" facs="tcp:52033:41" rendition="simple:additions"/>
+                     <figure/>
+                  </p>
                   <p>Let it be,</p>
                   <p>
                      <table>
@@ -1347,7 +1388,10 @@ and likewise the line QO; then the line LI and QO will be equal and parallel to 
                         </gap> hoofs,</hi> and they take their particular name<gap reason="illegible" resp="#APEX" extent="1+ letters">
                         <desc>•…</desc>
                      </gap> from such <hi>cylinders</hi> as they are part of; <hi>viz.</hi> if the <hi>base</hi> ABCM be half, or a quarter of a circle, it may be called a circular <hi>cylindrick hoof;</hi> If half or a quarter of an <hi>ellipsis,</hi> then an <hi>elliptick cylindrick hoof.</hi> If the <hi>base</hi> be half, or a whole <hi>parabola,</hi> then a <hi>parabolick cylin<g ref="char:EOLhyphen"/>drick hoof.</hi> If half, or a whole <hi>hyperbola,</hi> then a <hi>hyperbolick cylindrick hoof;</hi> the like for any other.</p>
-                  <figure/>
+                  <p>
+                     <pb n="75" facs="tcp:52033:45"/>
+                     <figure/>
+                  </p>
                </div>
                <div n="2" type="subpart">
                   <pb n="76" facs="tcp:52033:46"/>
